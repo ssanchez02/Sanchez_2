@@ -32,7 +32,5 @@ public class Main {
        return texto;
     }
         
-     public static void agregarTexto(){
-         
-     }
+     
 }
